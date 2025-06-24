@@ -1,2 +1,3 @@
-# c-course
+# c++ course
+
 DSA
